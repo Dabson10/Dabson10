@@ -58,3 +58,8 @@
 </div>
 
 ###
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Dabson)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Dabson)](https://open.spotify.com/user/Dabson)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31plo6jgxcv4tmck3s5qon2izq2i)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31plo6jgxcv4tmck3s5qon2izq2i&count={count})
