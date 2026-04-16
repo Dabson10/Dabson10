@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hola, soy David y soy un programador Méxicano.<br>Me enfoco en el backend con Java aprendiendo Spring y ramas.<br>No me considero buen diseñador, pero entiendo el frontend fundamental para construir productos completos y funcionales cuando se necesita.</p>
+<p align="left">Hola, soy David y soy un programador Méxicano.<br>Me enfoco en el backend con Java aprendiendo Spring y sus ramas.<br>No me considero buen diseñador, pero entiendo el frontend fundamental para construir productos completos y funcionales cuando se necesita.</p>
 
 ###
 
